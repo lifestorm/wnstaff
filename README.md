@@ -1,4 +1,4 @@
-# Willard Networks: Staff
+# Willard Networks: Staff 🔞
 This repository serves as the clearest example not only of human vices such as hypocrisy and arrogance, but also of ignorance. It presents the true story of the discord server, which is the de facto main communication server of the Willard Networks staff team. History from January through August - the entire time the chatroom has existed is affected and presented to the public.
 \
 \
