@@ -1,5 +1,5 @@
 # Willard Networks: Staff
-This repository serves as the clearest example not only of human vices such as hypocrisy and arrogance, but also of ignorance. It presents the true story of the discord server, which is the de facto main communication server of the Willard Networks staff team. History from January through August - the entire time the chatroom has existed is affected.
+This repository serves as the clearest example not only of human vices such as hypocrisy and arrogance, but also of ignorance. It presents the true story of the discord server, which is the de facto main communication server of the Willard Networks staff team. History from January through August - the entire time the chatroom has existed is affected and presented to the public.
 \
 \
 You can download files representing logs of four different channels (with a telling name) and open them in your browser. This may take a while to download, but it will give you an accurate picture of the true moral character of a member of the Willard Networks team.
